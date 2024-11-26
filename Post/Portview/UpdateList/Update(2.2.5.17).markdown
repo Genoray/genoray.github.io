@@ -2,8 +2,8 @@
 layout: default
 title:  Portview 2.2.5.17
 date:   2024-11-26 13:21:25 +0900
-categories: Portview
-has_children: true
+parent: Portview Overview
+has_children: false
 ---
 
 # Portview 2.2.5.17 has been released!
